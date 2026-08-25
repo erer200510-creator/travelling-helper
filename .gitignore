@@ -1,0 +1,16 @@
+# ---- Python ----
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# ---- 环境变量(含密钥,勿提交)----
+.env
+
+# ---- 运行时产物 ----
+storage/
+*.log
+
+# ---- IDE ----
+.idea/
+.vscode/
